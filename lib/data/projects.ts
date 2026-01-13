@@ -13,6 +13,7 @@ export const projects: Project[] = [
     challenges: 'Robust color detection under varied lighting, state mapping to solver, and smooth 3D rendering performance.',
     takeaways: 'Blend of CV, algorithms, and interactive UI; careful UX helps users follow complex steps.',
     githubUrl: 'https://github.com/Mouin-bkr/Rubik-cube-solver-computerVison',
+    liveUrl: 'https://cube.mouinboubakri.me/',
     featured: true
   },
   {
@@ -42,7 +43,7 @@ export const projects: Project[] = [
     challenges: 'Balancing AI difficulty and performance; managing edge cases in win/draw detection.',
     takeaways: 'Solidified state patterns and game-loop thinking in the browser.',
     githubUrl: 'https://github.com/Mouin-bkr/Connect4',
-    liveUrl: 'https://conect4game.netlify.app/',
+    liveUrl: 'https://pomodoro.mouinboubakri.me/',
     featured: false
   },
   {
@@ -85,7 +86,7 @@ export const projects: Project[] = [
     challenges: 'Handling rate limits and debouncing; smooth UX while fetching.',
     takeaways: 'Practical API patterns and client performance tuning.',
     githubUrl: 'https://github.com/Mouin-bkr/movie-hub',
-    liveUrl: 'https://moviehuub.netlify.app/',
+    liveUrl: 'https://moviehub.mouinboubakri.me/',
     featured: false
   }
 ];
