@@ -43,7 +43,7 @@ export const projects: Project[] = [
     challenges: 'Balancing AI difficulty and performance; managing edge cases in win/draw detection.',
     takeaways: 'Solidified state patterns and game-loop thinking in the browser.',
     githubUrl: 'https://github.com/Mouin-bkr/Connect4',
-    liveUrl: 'https://pomodoro.mouinboubakri.me/',
+    liveUrl: 'https://connect4.mouinboubakri.me/',
     featured: false
   },
   {
